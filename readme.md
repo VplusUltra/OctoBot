@@ -31,4 +31,4 @@ The bot currently reads settings from a file called `config.json`. You should in
 "sessionSecret": Secret key used by express-session to sign session cookies 
 "username": Username for bot control panel - hardcoded in config for ease of use
 "password": Password for bot control panel - again, for small personal project, no need to secure pass
-```
+``` 
