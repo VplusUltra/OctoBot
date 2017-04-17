@@ -1,4 +1,6 @@
-# OctoBot
+# OctoBot 2
+
+
 
 A quick discord bot written in node. Comes with a control panel written using express.
 
